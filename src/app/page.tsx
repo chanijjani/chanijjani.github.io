@@ -18,15 +18,11 @@ export default function Home() {
                 <Mail className="w-4 h-4" />
                 chanhee26.lee@gmail.com
               </a>
-              <a href="tel:+16024515792" className="flex items-center gap-1 hover:text-slate-900 transition-colors">
-                <Phone className="w-4 h-4" />
-                (+1) 602-451-5792
-              </a>
-              <a href="https://linkedin.com/in/chanhee-lee" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-slate-900 transition-colors">
+              <a href="https://www.linkedin.com/in/chanhee-lee-72526a23/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-slate-900 transition-colors">
                 <Linkedin className="w-4 h-4" />
                 LinkedIn
               </a>
-              <a href="https://github.com/chanhee-lee" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-slate-900 transition-colors">
+              <a href="https://github.com/chanijjani" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-slate-900 transition-colors">
                 <Github className="w-4 h-4" />
                 GitHub
               </a>
@@ -173,7 +169,7 @@ export default function Home() {
                 <p className="text-slate-700">Published two papers as a main/co-author in Springer/ACM journal (JSPS/TECS)</p>
               </div>
 
-              <a href="https://scholar.google.com" target="_blank" rel="noopener noreferrer" className="inline-block text-blue-600 hover:text-blue-800 transition-colors">
+              <a href="https://scholar.google.com/citations?user=I0FHzyQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" className="inline-block text-blue-600 hover:text-blue-800 transition-colors">
                 View on Google Scholar →
               </a>
             </div>
