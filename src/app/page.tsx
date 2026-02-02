@@ -38,7 +38,7 @@ export default function Home() {
 
           <div className="flex justify-center">
             <Button size="lg" className="gap-2 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700" asChild>
-              <a href="/Chanhee_Lee_Resume.pdf" download="Chanhee_Lee_Resume.pdf">
+              <a href="/Resume_Chanhee_Lee.pdf" download="Resume_Chanhee_Lee.pdf">
                 <Download className="w-4 h-4" />
                 Download Resume PDF
               </a>
