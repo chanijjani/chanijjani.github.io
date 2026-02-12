@@ -17,7 +17,7 @@ export default function Home() {
               <span className="text-2xl">🔬 Postdoctoral Researcher, UCF</span>
             </p>
             <p className="text-slate-600 mb-4">
-              CXL Memory Systems | On-device LLMs | Software Platforms
+              CXL Memory Systems | On-device LLMs | Software Platforms | AI Workloads Visualization
             </p>
 
             <div className="flex flex-wrap justify-center gap-4 text-sm text-slate-700">
