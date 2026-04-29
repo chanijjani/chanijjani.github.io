@@ -31,7 +31,7 @@ A modern, responsive resume website built with Next.js, TypeScript, and Tailwind
 ### Adding Your Resume PDF
 
 1. Place your resume PDF in the `public` folder
-2. Rename it to `Chanhee_Lee_Resume.pdf`
+2. Rename it to `Resume_Chanhee_Lee.pdf`
 3. The download button will automatically work
 
 ### Building for Production
