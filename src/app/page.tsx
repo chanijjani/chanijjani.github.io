@@ -5,9 +5,14 @@ import { Mail, Linkedin, Github, Download, Star, Phone, ExternalLink, Megaphone 
 
 const news = [
   {
+    date: "Jul 2026",
+    type: "Publication",
+    text: "Regular paper (Corresponding Author) accepted at TCRS 2026, title: \"Time-constrained Vision Language Model Inference using Semantic Caching for Autonomous Driving.\"",
+  },
+  {
     date: "Nov 2025",
     type: "Publication",
-    text: "Regular paper accepted at DATE Conference (DATE 2026), PREFACE: Proactive Re-executions for Fault-aware Mixed-criticality Environments.",
+    text: "Regular paper (3rd Author) accepted at DATE 2026, title: \"PREFACE: Proactive Re-executions for Fault-aware Mixed-criticality Environments.\"",
   },
   {
     date: "Apr 2025",
